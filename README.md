@@ -7,3 +7,4 @@ First push to remote repo.
 
 
 This line was added directly in remote repo.
+This is the second line added directly in remote repo.
